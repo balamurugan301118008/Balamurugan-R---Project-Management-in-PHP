@@ -1,0 +1,46 @@
+/**{*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+.mainContainer {
+    display: flex;
+    justify-content: start;
+    gap: 91px;
+    margin: 54px auto;
+}
+a.create {
+    text-align: center;
+    text-decoration: none;
+    background-color: skyblue;
+    display: inline-block;
+    height: 20px;
+    width: 151px;
+    place-content: center;
+    border-radius: 4px;
+    padding: 11px 4px;
+}
+.projects {
+    height: 43px;
+    width: 170px;
+    text-align: center;
+    border-radius: 9px;
+    background-color: powderblue;
+    color: revert;
+    border-style: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17px;
+    margin: 5px auto;
+    cursor: pointer;
+}
+.createTask{
+    cursor: pointer;
+}
+.viewMore{
+    cursor: pointer;
+}
+.delete{
+    cursor: pointer;
+}

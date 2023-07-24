@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eaecbf2-c875-48d4-85da-41756d9e6520" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2Ralz4TtN0eZJd0BXCDuEJIWZXB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eaecbf2-c875-48d4-85da-41756d9e6520" name="Default Changelist" comment="" />
+      <created>1687496331237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687496331237</updated>
+      <workItem from="1687496332534" duration="5169000" />
+      <workItem from="1687505218697" duration="3243000" />
+      <workItem from="1687584259867" duration="420000" />
+      <workItem from="1687584721968" duration="9046000" />
+      <workItem from="1687601869899" duration="293000" />
+      <workItem from="1687603710550" duration="2889000" />
+      <workItem from="1687754531772" duration="610000" />
+      <workItem from="1687759846740" duration="7270000" />
+      <workItem from="1687778133318" duration="821000" />
+      <workItem from="1687848889461" duration="1513000" />
+      <workItem from="1687950550209" duration="932000" />
+      <workItem from="1688137689949" duration="3428000" />
+      <workItem from="1688189904219" duration="7128000" />
+      <workItem from="1688204950099" duration="1853000" />
+      <workItem from="1688358923289" duration="19900000" />
+      <workItem from="1688452287480" duration="393000" />
+      <workItem from="1688540140693" duration="2943000" />
+      <workItem from="1688570334544" duration="2481000" />
+      <workItem from="1688614011307" duration="11782000" />
+      <workItem from="1688699862703" duration="4199000" />
+      <workItem from="1689570406207" duration="2905000" />
+      <workItem from="1690019284071" duration="1672000" />
+      <workItem from="1690022795252" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1687605276714">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/66.27.1300.741@66.27.1300.741" timestamp="1687605276714" />
+    <state x="294" y="117" width="833" height="568" key="NewPhpClassDialog" timestamp="1687496352973">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state x="294" y="117" width="833" height="568" key="NewPhpClassDialog/66.27.1300.741@66.27.1300.741" timestamp="1687496352973" />
+    <state x="511" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1688193131126">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state x="511" y="323" width="399" height="156" key="NewPhpFileDialog/66.27.1300.741@66.27.1300.741" timestamp="1688193131126" />
+    <state x="380" y="174" key="run.anything.popup" timestamp="1688138167525">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state x="380" y="174" key="run.anything.popup/66.27.1300.741@66.27.1300.741" timestamp="1688138167525" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1688542057260">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/66.27.1300.741@66.27.1300.741" timestamp="1688542057260" />
+  </component>
+</project>
